@@ -1,2 +1,3 @@
-# teste
-rtdrt
+# Algoritimos & Fuxogramas 
+exercicitando logica de programação e criando fluxograma de problemas
+
