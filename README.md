@@ -1,3 +1,3 @@
 # Algoritimos & Fuxogramas 
-exercicitando logica de programação e criando fluxograma de problemas
+exercitando logica de programação e criando fluxograma de problemas
 
